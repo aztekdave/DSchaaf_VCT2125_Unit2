@@ -1,0 +1,72 @@
+[
+  {
+    "artistname": "Led Zeppelin",
+    "album": "Led Zeppelin",
+    "label": "Atlantic",
+    "year": "1969",
+    "description": "Led Zeppelin's debut album was immediately commercially successful in both the UK and US, reaching the top-10 on album charts in both countries, as well as several others."
+  },
+  {
+    "artistname": "Rolling Stones",
+    "album": "Sticky Fingers",
+    "label": "Rolling Stones",
+    "year": "1971",
+    "description": "The Rolling Stones' eleventh American studio album is considered to be one of their best albums. It achieved triple platinum certification in the US."
+  },
+  {
+    "artistname": "The Who",
+    "album": "Who's Next",
+    "label": "Decca",
+    "year": "1971",
+    "description": "The Who's fifth studio album became the only album by the Who to top the UK charts and has often been viewed as their best album. Certified triple platinum in the US."
+  },
+  {
+    "artistname": "The Beatles",
+    "album": "The White Album",
+    "label": "Apple",
+    "year": "1968",
+    "description": "The only Beatles double album is viewed as one of the greatest albums of all time. The album has sold over 12 million copies in the US alone."
+  },
+  {
+    "artistname": "The Kinks",
+    "album": "The Kinks are the Village Green Preservation Society",
+    "label": "Reprise",
+    "year": "1969",
+    "description": "Released the same day as The Beatles' White Album, the album was greeted with almost unanimously positive reviews but failed to sell strongly. Despite this slow start, the album has since become the Kinks' best-selling original record."
+  },
+  {
+    "artistname": "Bob Dylan",
+    "album": "Blonde on Blonde",
+    "label": "Columbia",
+    "year": "1966",
+    "description": "Blonde on Blonde completed the trilogy of rock albums that Dylan recorded in 1965 and 1966. The album was rock music's second ever double album"
+  },
+  {
+    "artistname": "The Beach Boys",
+    "album": "Pet Sounds",
+    "label": "Capitol",
+    "year": "1966",
+    "description": "Initially met with lukewarm critical and commercial response in the US, it is widely considered to be among the most influential albums in the history of music."
+  },
+  {
+    "artistname": "The Velvet Underground",
+    "album": "The Velvet Underground & Nico",
+    "label": "Verve",
+    "year": "1967",
+    "description": "Debut album was largely unsuccessful and a financial failure. The album's controversial content led to its almost instantaneous ban from various record stores. Has since been certified platinum in the UK."
+  },
+  {
+    "artistname": "The Jimi Hendrix Experience",
+    "album": "Are You Experienced",
+    "label": "Reprise",
+    "year": "1967",
+    "description": "The Jimi Hendrix Experience's debut album was an immediate commercial success, selling more than one million copies within seven months of its release."
+  },
+  {
+    "artistname": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "label": "Capitol",
+    "year": "1973",
+    "description": "The album has charted for over 900 weeks in total. With estimated sales of over 45 million copies, it is Pink Floyd's best seller, and one of the best-selling albums worldwide."
+  }
+]
